@@ -1,0 +1,662 @@
+2025-07-13 20:08:29,558 INFO: Script started.
+2025-07-13 20:08:29,559 INFO: Attempting to read auth URL from URL.txt
+2025-07-13 20:08:29,559 INFO: Successfully read URL from file
+2025-07-13 20:08:29,559 INFO: Successfully extracted auth code from URL
+2025-07-13 20:08:29,559 INFO: Trading symbol set to: NSE:NIFTY50-INDEX
+2025-07-13 20:08:29,559 INFO: Attempting to create Fyers session
+2025-07-13 20:08:29,678 INFO: Successfully created Fyers session
+2025-07-13 20:08:29,810 INFO: Successfully retrieved user profile
+2025-07-13 20:08:29,811 INFO: Successfully created Excel file at: Data\NIFTY50-INDEX.xlsx
+2025-07-13 20:08:29,945 INFO: Successfully printed LTP for NSE:NIFTY50-INDEX
+2025-07-13 20:53:42,233 INFO: Script started.
+2025-07-13 20:53:42,233 INFO: Attempting to read auth URL from URL.txt
+2025-07-13 20:53:42,233 INFO: Successfully read URL from file
+2025-07-13 20:53:42,234 INFO: Successfully extracted auth code from URL
+2025-07-13 20:53:42,234 INFO: Trading symbol set to: NSE:NIFTY50-INDEX
+2025-07-13 20:53:42,234 INFO: Attempting to create Fyers session
+2025-07-13 20:53:42,390 INFO: Successfully created Fyers session
+2025-07-13 20:53:42,526 INFO: Successfully retrieved user profile
+2025-07-13 20:53:42,528 INFO: Successfully created Excel file at: Data\NIFTY50-INDEX.xlsx
+2025-07-13 20:53:42,528 INFO: Starting LTP data collection for 1 minute timeframe
+2025-07-13 20:53:42,528 INFO: Waiting 18 seconds for next minute to start
+2025-07-13 20:54:00,536 INFO: Starting data collection at 20:54:00
+2025-07-13 20:55:00,540 INFO: Collected 60 LTP points
+2025-07-13 20:55:00,540 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-13 20:55:00,648 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-13 20:55:00,648 INFO: Successfully stored LTP data in Excel
+2025-07-13 20:55:00,648 INFO: Starting data collection at 20:55:00
+2025-07-13 20:55:32,221 INFO: Data collection stopped by user
+2025-07-14 08:48:10,728 INFO: Script started.
+2025-07-14 08:48:10,728 INFO: Attempting to read auth URL from URL.txt
+2025-07-14 08:48:10,743 INFO: Successfully read URL from file
+2025-07-14 08:48:10,743 INFO: Successfully extracted auth code from URL
+2025-07-14 08:48:10,743 INFO: Trading symbol set to: NSE:NIFTY50-INDEX
+2025-07-14 08:48:10,743 INFO: Attempting to create Fyers session
+2025-07-14 08:48:11,103 INFO: Successfully created Fyers session
+2025-07-14 08:48:11,314 INFO: Successfully retrieved user profile
+2025-07-14 08:48:11,315 INFO: Successfully created Excel file at: Data\NIFTY50-INDEX.xlsx
+2025-07-14 08:48:11,315 INFO: Starting LTP data collection for 1 minute timeframe
+2025-07-14 08:48:11,315 INFO: Waiting 49 seconds for next minute to start
+2025-07-14 08:49:00,325 INFO: Starting data collection at 08:49:00 for 1 minute(s)
+2025-07-14 08:50:00,341 INFO: Collected 60 LTP points for 1 minute timeframe
+2025-07-14 08:50:00,341 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 08:50:00,416 INFO: Calculating signals for close price: 25149.85
+2025-07-14 08:50:00,461 INFO: Calculated signals: {'EMA1': 25149.85, 'EMA2': 25149.85, 'EMA3': 25149.85, 'EMA4': 25149.85, 'EMA5': 25149.85, 'Signal': None, 'Strike_Price': None}
+2025-07-14 08:50:00,492 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 08:50:00,492 INFO: Successfully stored LTP data in Excel
+2025-07-14 08:50:00,492 INFO: Starting data collection at 08:50:00 for 1 minute(s)
+2025-07-14 08:50:42,909 INFO: Data collection stopped by user
+2025-07-14 09:06:47,173 INFO: Script started.
+2025-07-14 09:06:47,173 INFO: Attempting to read auth URL from URL.txt
+2025-07-14 09:06:47,173 INFO: Successfully read URL from file
+2025-07-14 09:06:47,173 INFO: Successfully extracted auth code from URL
+2025-07-14 09:06:47,173 INFO: Trading symbol set to: NSE:NIFTY50-INDEX
+2025-07-14 09:06:47,173 INFO: Attempting to create Fyers session
+2025-07-14 09:06:47,306 INFO: Successfully created Fyers session
+2025-07-14 09:06:47,466 INFO: Successfully retrieved user profile
+2025-07-14 09:06:47,466 INFO: Successfully created Excel file at: Data\NIFTY50-INDEX.xlsx
+2025-07-14 09:06:47,466 INFO: Starting LTP data collection for 5 minute timeframe
+2025-07-14 09:06:47,466 INFO: Waiting 13 seconds for next minute to start
+2025-07-14 09:07:01,004 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 09:08:01,011 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 09:09:01,007 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 09:10:00,019 INFO: Starting data collection at 09:10:00 for 5 minute(s)
+2025-07-14 09:15:00,027 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 09:15:00,027 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 09:15:00,047 INFO: Calculating signals for close price: 25149.5
+2025-07-14 09:15:00,078 INFO: Calculated signals: {'EMA1': 25149.772222222222, 'EMA2': 25149.8, 'EMA3': 25149.818181818177, 'EMA4': 25149.829999999998, 'EMA5': 25149.837499999998, 'Signal': 'Sell Long', 'Strike_Price': 'SELL 26000 CE'}
+2025-07-14 09:15:00,105 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 09:15:00,105 INFO: *** NEW SIGNAL: Sell Long - SELL 26000 CE ***
+2025-07-14 09:15:00,105 INFO: Successfully stored LTP data in Excel
+2025-07-14 09:15:00,105 INFO: Starting data collection at 09:15:00 for 5 minute(s)
+2025-07-14 09:20:00,109 INFO: Collected 299 LTP points for 5 minute timeframe
+2025-07-14 09:20:00,109 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 09:20:00,137 INFO: Calculating signals for close price: 25099.7
+2025-07-14 09:20:00,158 INFO: Calculated signals: {'EMA1': 25138.645061728395, 'EMA2': 25142.64285714286, 'EMA3': 25145.261983471068, 'EMA4': 25146.965428571428, 'EMA5': 25148.046874999996, 'Signal': None, 'Strike_Price': None}
+2025-07-14 09:20:00,185 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 09:20:00,185 INFO: Successfully stored LTP data in Excel
+2025-07-14 09:20:00,185 INFO: Starting data collection at 09:20:00 for 5 minute(s)
+2025-07-14 09:25:00,186 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 09:25:00,186 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 09:25:00,206 INFO: Calculating signals for close price: 25054.15
+2025-07-14 09:25:00,240 INFO: Calculated signals: {'EMA1': 25119.868381344306, 'EMA2': 25130.001020408166, 'EMA3': 25136.97907588279, 'EMA4': 25141.661689795917, 'EMA5': 25144.693415178568, 'Signal': None, 'Strike_Price': None}
+2025-07-14 09:25:00,269 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 09:25:00,269 INFO: Successfully stored LTP data in Excel
+2025-07-14 09:25:00,269 INFO: Starting data collection at 09:25:00 for 5 minute(s)
+2025-07-14 09:30:00,275 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 09:30:00,275 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 09:30:00,323 INFO: Calculating signals for close price: 25072.65
+2025-07-14 09:30:00,340 INFO: Calculated signals: {'EMA1': 25109.37540771224, 'EMA2': 25121.808017492716, 'EMA3': 25131.130978075264, 'EMA4': 25137.718164664722, 'EMA5': 25142.120436065048, 'Signal': None, 'Strike_Price': None}
+2025-07-14 09:30:00,364 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 09:30:00,364 INFO: Successfully stored LTP data in Excel
+2025-07-14 09:30:00,364 INFO: Starting data collection at 09:30:00 for 5 minute(s)
+2025-07-14 09:35:00,371 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 09:35:00,371 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 09:35:00,415 INFO: Calculating signals for close price: 25056.15
+2025-07-14 09:35:00,431 INFO: Calculated signals: {'EMA1': 25097.547539331743, 'EMA2': 25112.428300708045, 'EMA3': 25124.314525522965, 'EMA4': 25133.057126683878, 'EMA5': 25139.05006334844, 'Signal': None, 'Strike_Price': None}
+2025-07-14 09:35:00,454 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 09:35:00,454 INFO: Successfully stored LTP data in Excel
+2025-07-14 09:35:00,454 INFO: Starting data collection at 09:35:00 for 5 minute(s)
+2025-07-14 09:40:00,465 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 09:40:00,465 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 09:40:00,517 INFO: Calculating signals for close price: 25074.55
+2025-07-14 09:40:00,538 INFO: Calculated signals: {'EMA1': 25092.4369750358, 'EMA2': 25107.01711489261, 'EMA3': 25119.79047774815, 'EMA4': 25129.713862301942, 'EMA5': 25136.746489657427, 'Signal': None, 'Strike_Price': None}
+2025-07-14 09:40:00,568 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 09:40:00,568 INFO: Successfully stored LTP data in Excel
+2025-07-14 09:40:00,568 INFO: Starting data collection at 09:40:00 for 5 minute(s)
+2025-07-14 09:45:00,578 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 09:45:00,578 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 09:45:00,622 INFO: Calculating signals for close price: 25090
+2025-07-14 09:45:00,643 INFO: Calculated signals: {'EMA1': 25091.895425027844, 'EMA2': 25104.58609847938, 'EMA3': 25117.082252498316, 'EMA4': 25127.444498741832, 'EMA5': 25135.076972169663, 'Signal': None, 'Strike_Price': None}
+2025-07-14 09:45:00,685 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 09:45:00,685 INFO: Successfully stored LTP data in Excel
+2025-07-14 09:45:00,685 INFO: Starting data collection at 09:45:00 for 5 minute(s)
+2025-07-14 09:50:00,690 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 09:50:00,690 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 09:50:00,783 INFO: Calculating signals for close price: 25087.95
+2025-07-14 09:50:00,805 INFO: Calculated signals: {'EMA1': 25091.018663910545, 'EMA2': 25102.20951298233, 'EMA3': 25114.433865907562, 'EMA4': 25125.1876702423, 'EMA5': 25133.39386602075, 'Signal': None, 'Strike_Price': None}
+2025-07-14 09:50:00,831 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 09:50:00,831 INFO: Successfully stored LTP data in Excel
+2025-07-14 09:50:00,831 INFO: Starting data collection at 09:50:00 for 5 minute(s)
+2025-07-14 09:55:00,845 INFO: Collected 299 LTP points for 5 minute timeframe
+2025-07-14 09:55:00,845 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 09:55:00,898 INFO: Calculating signals for close price: 25111.9
+2025-07-14 09:55:00,917 INFO: Calculated signals: {'EMA1': 25095.658960819314, 'EMA2': 25103.59386827057, 'EMA3': 25114.20351446142, 'EMA4': 25124.42837479988, 'EMA5': 25132.62622794858, 'Signal': None, 'Strike_Price': None}
+2025-07-14 09:55:00,948 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 09:55:00,948 INFO: Successfully stored LTP data in Excel
+2025-07-14 09:55:00,948 INFO: Starting data collection at 09:55:00 for 5 minute(s)
+2025-07-14 10:00:00,958 INFO: Collected 299 LTP points for 5 minute timeframe
+2025-07-14 10:00:00,959 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:00:01,005 INFO: Calculating signals for close price: 25117.15
+2025-07-14 10:00:01,024 INFO: Calculated signals: {'EMA1': 25100.43474730391, 'EMA2': 25105.530458517635, 'EMA3': 25114.47137678311, 'EMA4': 25124.012467668457, 'EMA5': 25132.073505521847, 'Signal': None, 'Strike_Price': None}
+2025-07-14 10:00:01,055 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:00:01,055 INFO: Successfully stored LTP data in Excel
+2025-07-14 10:00:01,055 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 10:01:00,063 INFO: Starting data collection at 10:01:00 for 5 minute(s)
+2025-07-14 10:06:04,067 INFO: Collected 138 LTP points for 5 minute timeframe
+2025-07-14 10:06:04,067 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:06:04,118 INFO: Calculating signals for close price: 25099.4
+2025-07-14 10:06:04,141 INFO: Calculated signals: {'EMA1': 25100.204803458597, 'EMA2': 25104.6546787294, 'EMA3': 25113.10125162101, 'EMA4': 25122.606040944545, 'EMA5': 25130.906594610355, 'Signal': None, 'Strike_Price': None}
+2025-07-14 10:06:04,172 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:06:04,172 INFO: Successfully stored LTP data in Excel
+2025-07-14 10:06:04,172 INFO: Waiting 56 seconds for next minute to start
+2025-07-14 10:07:01,000 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 10:08:01,000 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 10:09:01,000 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 10:10:00,015 INFO: Starting data collection at 10:10:00 for 5 minute(s)
+2025-07-14 10:15:00,023 INFO: Collected 258 LTP points for 5 minute timeframe
+2025-07-14 10:15:00,023 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:15:00,063 INFO: Calculating signals for close price: 25119.9
+2025-07-14 10:15:00,081 INFO: Calculated signals: {'EMA1': 25104.58151380113, 'EMA2': 25106.832581768056, 'EMA3': 25113.719319655465, 'EMA4': 25122.451410033427, 'EMA5': 25130.5135019457, 'Signal': None, 'Strike_Price': None}
+2025-07-14 10:15:00,108 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:15:00,108 INFO: Successfully stored LTP data in Excel
+2025-07-14 10:15:00,108 INFO: Starting data collection at 10:15:00 for 5 minute(s)
+2025-07-14 10:20:00,112 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 10:20:00,112 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:20:00,155 INFO: Calculating signals for close price: 25119.6
+2025-07-14 10:20:00,178 INFO: Calculated signals: {'EMA1': 25107.918955178655, 'EMA2': 25108.656498658336, 'EMA3': 25114.25392695951, 'EMA4': 25122.28847231723, 'EMA5': 25130.12373401907, 'Signal': None, 'Strike_Price': None}
+2025-07-14 10:20:00,204 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:20:00,205 INFO: Successfully stored LTP data in Excel
+2025-07-14 10:20:00,205 INFO: Starting data collection at 10:20:00 for 5 minute(s)
+2025-07-14 10:25:00,208 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 10:25:00,208 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:25:00,258 INFO: Calculating signals for close price: 25115.65
+2025-07-14 10:25:00,280 INFO: Calculated signals: {'EMA1': 25109.636965138954, 'EMA2': 25109.655570278577, 'EMA3': 25114.380842690465, 'EMA4': 25121.909131041957, 'EMA5': 25129.60681494696, 'Signal': None, 'Strike_Price': None}
+2025-07-14 10:25:00,308 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:25:00,308 INFO: Successfully stored LTP data in Excel
+2025-07-14 10:25:00,308 INFO: Starting data collection at 10:25:00 for 5 minute(s)
+2025-07-14 10:30:00,312 INFO: Collected 279 LTP points for 5 minute timeframe
+2025-07-14 10:30:00,312 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:30:00,356 INFO: Calculating signals for close price: 25110.4
+2025-07-14 10:30:00,377 INFO: Calculated signals: {'EMA1': 25109.806528441408, 'EMA2': 25109.76191738164, 'EMA3': 25114.018947900422, 'EMA4': 25121.251466410988, 'EMA5': 25128.920857270285, 'Signal': 'Sell Short', 'Strike_Price': 'SELL 24000 PE'}
+2025-07-14 10:30:00,402 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:30:00,402 INFO: *** NEW SIGNAL: Sell Short - SELL 24000 PE ***
+2025-07-14 10:30:00,402 INFO: Successfully stored LTP data in Excel
+2025-07-14 10:30:00,402 INFO: Starting data collection at 10:30:00 for 5 minute(s)
+2025-07-14 10:35:00,416 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 10:35:00,416 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:35:00,463 INFO: Calculating signals for close price: 25086.45
+2025-07-14 10:35:00,479 INFO: Calculated signals: {'EMA1': 25104.61618878776, 'EMA2': 25106.431643469976, 'EMA3': 25111.512679909476, 'EMA4': 25119.262811187502, 'EMA5': 25127.404040939204, 'Signal': 'Sell Long', 'Strike_Price': 'SELL 26000 CE'}
+2025-07-14 10:35:00,510 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:35:00,510 INFO: *** NEW SIGNAL: Sell Long - SELL 26000 CE ***
+2025-07-14 10:35:00,510 INFO: Successfully stored LTP data in Excel
+2025-07-14 10:35:00,510 INFO: Starting data collection at 10:35:00 for 5 minute(s)
+2025-07-14 10:40:00,517 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 10:40:00,517 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:40:00,563 INFO: Calculating signals for close price: 25079.45
+2025-07-14 10:40:00,595 INFO: Calculated signals: {'EMA1': 25099.02370239048, 'EMA2': 25102.577122974268, 'EMA3': 25108.597890826797, 'EMA4': 25116.98779340536, 'EMA5': 25125.691396619946, 'Signal': None, 'Strike_Price': None}
+2025-07-14 10:40:00,626 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:40:00,626 INFO: Successfully stored LTP data in Excel
+2025-07-14 10:40:00,626 INFO: Starting data collection at 10:40:00 for 5 minute(s)
+2025-07-14 10:45:00,627 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 10:45:00,627 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:45:00,678 INFO: Calculating signals for close price: 25088.05
+2025-07-14 10:45:00,696 INFO: Calculated signals: {'EMA1': 25096.585101859262, 'EMA2': 25100.501819692232, 'EMA3': 25106.729900751634, 'EMA4': 25115.334205210766, 'EMA5': 25124.347061026376, 'Signal': None, 'Strike_Price': None}
+2025-07-14 10:45:00,727 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:45:00,727 INFO: Successfully stored LTP data in Excel
+2025-07-14 10:45:00,727 INFO: Starting data collection at 10:45:00 for 5 minute(s)
+2025-07-14 10:50:00,733 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 10:50:00,733 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:50:00,779 INFO: Calculating signals for close price: 25085.55
+2025-07-14 10:50:00,811 INFO: Calculated signals: {'EMA1': 25094.13285700165, 'EMA2': 25098.365845450484, 'EMA3': 25104.804455228757, 'EMA4': 25113.63225062729, 'EMA5': 25122.961451704003, 'Signal': None, 'Strike_Price': None}
+2025-07-14 10:50:00,842 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:50:00,842 INFO: Successfully stored LTP data in Excel
+2025-07-14 10:50:00,842 INFO: Starting data collection at 10:50:00 for 5 minute(s)
+2025-07-14 10:55:00,849 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 10:55:00,849 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:55:00,904 INFO: Calculating signals for close price: 25078.75
+2025-07-14 10:55:00,930 INFO: Calculated signals: {'EMA1': 25090.714444334615, 'EMA2': 25095.563581814702, 'EMA3': 25102.43586838978, 'EMA4': 25111.638979162875, 'EMA5': 25121.382471286, 'Signal': None, 'Strike_Price': None}
+2025-07-14 10:55:00,947 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 10:55:00,947 INFO: Successfully stored LTP data in Excel
+2025-07-14 10:55:00,947 INFO: Starting data collection at 10:55:00 for 5 minute(s)
+2025-07-14 11:00:00,961 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 11:00:00,961 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:00:01,023 INFO: Calculating signals for close price: 25074.25
+2025-07-14 11:00:01,039 INFO: Calculated signals: {'EMA1': 25087.05567892692, 'EMA2': 25092.5187844126, 'EMA3': 25099.87351671798, 'EMA4': 25109.502466067854, 'EMA5': 25119.69916874007, 'Signal': None, 'Strike_Price': None}
+2025-07-14 11:00:01,070 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:00:01,070 INFO: Successfully stored LTP data in Excel
+2025-07-14 11:00:01,070 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 11:01:00,077 INFO: Starting data collection at 11:01:00 for 5 minute(s)
+2025-07-14 11:06:00,080 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 11:06:00,080 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:06:00,111 INFO: Calculating signals for close price: 25077.7
+2025-07-14 11:06:00,142 INFO: Calculated signals: {'EMA1': 25084.976639165383, 'EMA2': 25090.401815210804, 'EMA3': 25097.85774247089, 'EMA4': 25107.68518229255, 'EMA5': 25118.199198427923, 'Signal': None, 'Strike_Price': None}
+2025-07-14 11:06:00,174 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:06:00,174 INFO: Successfully stored LTP data in Excel
+2025-07-14 11:06:01,002 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 11:07:01,004 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 11:08:01,007 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 11:09:01,002 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 11:10:00,007 INFO: Starting data collection at 11:10:00 for 5 minute(s)
+2025-07-14 11:15:00,015 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 11:15:00,015 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:15:00,062 INFO: Calculating signals for close price: 25063.95
+2025-07-14 11:15:00,078 INFO: Calculated signals: {'EMA1': 25080.304052684187, 'EMA2': 25086.622984466405, 'EMA3': 25094.77522042808, 'EMA4': 25105.18602901869, 'EMA5': 25116.261727055495, 'Signal': None, 'Strike_Price': None}
+2025-07-14 11:15:00,109 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:15:00,109 INFO: Successfully stored LTP data in Excel
+2025-07-14 11:15:00,109 INFO: Starting data collection at 11:15:00 for 5 minute(s)
+2025-07-14 11:20:00,115 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 11:20:00,115 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:20:00,161 INFO: Calculating signals for close price: 25060.05
+2025-07-14 11:20:00,193 INFO: Calculated signals: {'EMA1': 25075.803152087698, 'EMA2': 25082.82684382835, 'EMA3': 25091.618382207344, 'EMA4': 25102.606827360476, 'EMA5': 25114.25416537494, 'Signal': None, 'Strike_Price': None}
+2025-07-14 11:20:00,224 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:20:00,224 INFO: Successfully stored LTP data in Excel
+2025-07-14 11:20:00,224 INFO: Starting data collection at 11:20:00 for 5 minute(s)
+2025-07-14 11:25:00,238 INFO: Collected 299 LTP points for 5 minute timeframe
+2025-07-14 11:25:00,238 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:25:00,269 INFO: Calculating signals for close price: 25046.2
+2025-07-14 11:25:00,300 INFO: Calculated signals: {'EMA1': 25069.224673845987, 'EMA2': 25077.594437567157, 'EMA3': 25087.48943837031, 'EMA4': 25099.383580082733, 'EMA5': 25111.823659468693, 'Signal': None, 'Strike_Price': None}
+2025-07-14 11:25:00,332 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:25:00,332 INFO: Successfully stored LTP data in Excel
+2025-07-14 11:25:00,332 INFO: Starting data collection at 11:25:00 for 5 minute(s)
+2025-07-14 11:30:00,344 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 11:30:00,344 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:30:00,391 INFO: Calculating signals for close price: 25036.65
+2025-07-14 11:30:00,422 INFO: Calculated signals: {'EMA1': 25061.985857435768, 'EMA2': 25071.745232200425, 'EMA3': 25082.867671245735, 'EMA4': 25095.798804078004, 'EMA5': 25109.13888591624, 'Signal': None, 'Strike_Price': None}
+2025-07-14 11:30:00,453 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:30:00,453 INFO: Successfully stored LTP data in Excel
+2025-07-14 11:30:00,453 INFO: Starting data collection at 11:30:00 for 5 minute(s)
+2025-07-14 11:35:00,461 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 11:35:00,461 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:35:00,508 INFO: Calculating signals for close price: 25036.55
+2025-07-14 11:35:00,523 INFO: Calculated signals: {'EMA1': 25056.333444672266, 'EMA2': 25066.717341886077, 'EMA3': 25078.656973859757, 'EMA4': 25092.41315813069, 'EMA5': 25106.546425704946, 'Signal': None, 'Strike_Price': None}
+2025-07-14 11:35:00,555 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:35:00,555 INFO: Successfully stored LTP data in Excel
+2025-07-14 11:35:00,555 INFO: Starting data collection at 11:35:00 for 5 minute(s)
+2025-07-14 11:40:00,568 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 11:40:00,568 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:40:00,615 INFO: Calculating signals for close price: 25034.05
+2025-07-14 11:40:00,662 INFO: Calculated signals: {'EMA1': 25051.38156807843, 'EMA2': 25062.050578759496, 'EMA3': 25074.601794417962, 'EMA4': 25089.07812052322, 'EMA5': 25103.95726764406, 'Signal': None, 'Strike_Price': None}
+2025-07-14 11:40:00,693 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:40:00,693 INFO: Successfully stored LTP data in Excel
+2025-07-14 11:40:00,693 INFO: Starting data collection at 11:40:00 for 5 minute(s)
+2025-07-14 11:45:00,704 INFO: Collected 293 LTP points for 5 minute timeframe
+2025-07-14 11:45:00,704 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:45:00,755 INFO: Calculating signals for close price: 25033.35
+2025-07-14 11:45:00,787 INFO: Calculated signals: {'EMA1': 25047.37455294989, 'EMA2': 25057.95049607957, 'EMA3': 25070.851631289057, 'EMA4': 25085.89365649332, 'EMA5': 25101.435579513913, 'Signal': None, 'Strike_Price': None}
+2025-07-14 11:45:00,818 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:45:00,818 INFO: Successfully stored LTP data in Excel
+2025-07-14 11:45:00,818 INFO: Starting data collection at 11:45:00 for 5 minute(s)
+2025-07-14 11:50:00,828 INFO: Collected 298 LTP points for 5 minute timeframe
+2025-07-14 11:50:00,828 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:50:00,890 INFO: Calculating signals for close price: 25038.7
+2025-07-14 11:50:00,922 INFO: Calculated signals: {'EMA1': 25045.44687451658, 'EMA2': 25055.200425211064, 'EMA3': 25067.928755717323, 'EMA4': 25083.196876122274, 'EMA5': 25099.1950231027, 'Signal': None, 'Strike_Price': None}
+2025-07-14 11:50:00,969 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:50:00,969 INFO: Successfully stored LTP data in Excel
+2025-07-14 11:50:00,969 INFO: Starting data collection at 11:50:00 for 5 minute(s)
+2025-07-14 11:55:00,971 INFO: Collected 299 LTP points for 5 minute timeframe
+2025-07-14 11:55:00,971 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:55:01,003 INFO: Calculating signals for close price: 25038.8
+2025-07-14 11:55:01,034 INFO: Calculated signals: {'EMA1': 25043.96979129067, 'EMA2': 25052.85750732377, 'EMA3': 25065.280687015747, 'EMA4': 25080.659911772433, 'EMA5': 25097.03805799189, 'Signal': None, 'Strike_Price': None}
+2025-07-14 11:55:01,065 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 11:55:01,065 INFO: Successfully stored LTP data in Excel
+2025-07-14 11:55:01,065 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 11:56:00,067 INFO: Starting data collection at 11:56:00 for 5 minute(s)
+2025-07-14 12:01:00,083 INFO: Collected 298 LTP points for 5 minute timeframe
+2025-07-14 12:01:00,083 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 12:01:00,114 INFO: Calculating signals for close price: 25033.7
+2025-07-14 12:01:00,146 INFO: Calculated signals: {'EMA1': 25041.6876154483, 'EMA2': 25050.120720563234, 'EMA3': 25062.40971546886, 'EMA4': 25077.97648824258, 'EMA5': 25094.775984492182, 'Signal': None, 'Strike_Price': None}
+2025-07-14 12:01:00,192 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 12:01:00,192 INFO: Successfully stored LTP data in Excel
+2025-07-14 12:01:01,005 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 12:02:01,005 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 12:03:01,009 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 12:04:01,006 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 12:05:00,019 INFO: Starting data collection at 12:05:00 for 5 minute(s)
+2025-07-14 12:10:00,032 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 12:10:00,032 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 12:10:00,063 INFO: Calculating signals for close price: 25052.45
+2025-07-14 12:10:00,094 INFO: Calculated signals: {'EMA1': 25044.07925645979, 'EMA2': 25050.45347476849, 'EMA3': 25061.504286789874, 'EMA4': 25076.517831771576, 'EMA5': 25093.26434218889, 'Signal': None, 'Strike_Price': None}
+2025-07-14 12:10:00,125 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 12:10:00,125 INFO: Successfully stored LTP data in Excel
+2025-07-14 12:10:00,125 INFO: Starting data collection at 12:10:00 for 5 minute(s)
+2025-07-14 12:15:00,129 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 12:15:00,129 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 12:15:00,160 INFO: Calculating signals for close price: 25045.65
+2025-07-14 12:15:00,191 INFO: Calculated signals: {'EMA1': 25044.42831057984, 'EMA2': 25049.767264087277, 'EMA3': 25060.062987990794, 'EMA4': 25074.75395567034, 'EMA5': 25091.563829967858, 'Signal': None, 'Strike_Price': None}
+2025-07-14 12:15:00,238 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 12:15:00,238 INFO: Successfully stored LTP data in Excel
+2025-07-14 12:15:00,238 INFO: Starting data collection at 12:15:00 for 5 minute(s)
+2025-07-14 12:20:00,243 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 12:20:00,243 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 12:20:00,337 INFO: Calculating signals for close price: 25052.85
+2025-07-14 12:20:00,368 INFO: Calculated signals: {'EMA1': 25046.299797117652, 'EMA2': 25050.207654931954, 'EMA3': 25059.40726180981, 'EMA4': 25073.502301060606, 'EMA5': 25090.181193183293, 'Signal': None, 'Strike_Price': None}
+2025-07-14 12:20:00,400 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 12:20:00,400 INFO: Successfully stored LTP data in Excel
+2025-07-14 12:20:00,400 INFO: Starting data collection at 12:20:00 for 5 minute(s)
+2025-07-14 12:25:00,415 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 12:25:00,415 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 12:25:00,478 INFO: Calculating signals for close price: 25043.9
+2025-07-14 12:25:00,509 INFO: Calculated signals: {'EMA1': 25045.766508869285, 'EMA2': 25049.30656137025, 'EMA3': 25057.99751073619, 'EMA4': 25071.810741, 'EMA5': 25088.528293426745, 'Signal': None, 'Strike_Price': None}
+2025-07-14 12:25:00,540 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 12:25:00,540 INFO: Successfully stored LTP data in Excel
+2025-07-14 12:25:00,540 INFO: Starting data collection at 12:25:00 for 5 minute(s)
+2025-07-14 12:30:00,541 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 12:30:00,541 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 12:30:00,603 INFO: Calculating signals for close price: 25043.45
+2025-07-14 12:30:00,635 INFO: Calculated signals: {'EMA1': 25045.251729120555, 'EMA2': 25048.46990974593, 'EMA3': 25056.675009760173, 'EMA4': 25070.190127228572, 'EMA5': 25086.91835437579, 'Signal': None, 'Strike_Price': None}
+2025-07-14 12:30:00,666 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 12:30:00,666 INFO: Successfully stored LTP data in Excel
+2025-07-14 12:30:00,666 INFO: Starting data collection at 12:30:00 for 5 minute(s)
+2025-07-14 12:35:00,678 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 12:35:00,678 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 12:35:00,740 INFO: Calculating signals for close price: 25048.7
+2025-07-14 12:35:00,771 INFO: Calculated signals: {'EMA1': 25046.01801153821, 'EMA2': 25048.502779782226, 'EMA3': 25055.950008872882, 'EMA4': 25068.962119958367, 'EMA5': 25085.553413148085, 'Signal': None, 'Strike_Price': None}
+2025-07-14 12:35:00,803 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 12:35:00,803 INFO: Successfully stored LTP data in Excel
+2025-07-14 12:35:00,803 INFO: Starting data collection at 12:35:00 for 5 minute(s)
+2025-07-14 12:40:00,810 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 12:40:00,810 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 12:40:00,872 INFO: Calculating signals for close price: 25047.2
+2025-07-14 12:40:00,904 INFO: Calculated signals: {'EMA1': 25046.280675640828, 'EMA2': 25048.316668384767, 'EMA3': 25055.1545535208, 'EMA4': 25067.71857024646, 'EMA5': 25084.1836483928, 'Signal': None, 'Strike_Price': None}
+2025-07-14 12:40:00,951 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 12:40:00,951 INFO: Successfully stored LTP data in Excel
+2025-07-14 12:40:00,951 INFO: Starting data collection at 12:40:00 for 5 minute(s)
+2025-07-14 12:45:00,959 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 12:45:00,959 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 12:45:01,021 INFO: Calculating signals for close price: 25057.4
+2025-07-14 12:45:01,053 INFO: Calculated signals: {'EMA1': 25048.751636609533, 'EMA2': 25049.614287186945, 'EMA3': 25055.358685018906, 'EMA4': 25067.12893766095, 'EMA5': 25083.227089521628, 'Signal': None, 'Strike_Price': None}
+2025-07-14 12:45:01,100 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 12:45:01,100 INFO: Successfully stored LTP data in Excel
+2025-07-14 12:45:01,100 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 12:46:00,108 INFO: Starting data collection at 12:46:00 for 5 minute(s)
+2025-07-14 12:51:00,119 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 12:51:00,119 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 12:51:00,166 INFO: Calculating signals for close price: 25050.95
+2025-07-14 12:51:00,197 INFO: Calculated signals: {'EMA1': 25049.240161807415, 'EMA2': 25049.805103303097, 'EMA3': 25054.957895471733, 'EMA4': 25066.204426937467, 'EMA5': 25082.074336324426, 'Signal': None, 'Strike_Price': None}
+2025-07-14 12:51:00,244 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 12:51:00,244 INFO: Successfully stored LTP data in Excel
+2025-07-14 12:51:01,009 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 12:52:01,002 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 12:53:01,001 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 12:54:01,008 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 12:55:00,019 INFO: Starting data collection at 12:55:00 for 5 minute(s)
+2025-07-14 13:00:00,021 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 13:00:00,021 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:00:00,068 INFO: Calculating signals for close price: 25039.3
+2025-07-14 13:00:00,099 INFO: Calculated signals: {'EMA1': 25047.031236961324, 'EMA2': 25048.3043742598, 'EMA3': 25053.534450428848, 'EMA4': 25064.66703111247, 'EMA5': 25080.546681455697, 'Signal': None, 'Strike_Price': None}
+2025-07-14 13:00:00,131 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:00:00,131 INFO: Successfully stored LTP data in Excel
+2025-07-14 13:00:00,131 INFO: Starting data collection at 13:00:00 for 5 minute(s)
+2025-07-14 13:05:00,139 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 13:05:00,139 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:05:00,233 INFO: Calculating signals for close price: 25048.1
+2025-07-14 13:05:00,264 INFO: Calculated signals: {'EMA1': 25047.26873985881, 'EMA2': 25048.275177936972, 'EMA3': 25053.040409480767, 'EMA4': 25063.720343620327, 'EMA5': 25079.38787140371, 'Signal': None, 'Strike_Price': None}
+2025-07-14 13:05:00,311 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:05:00,311 INFO: Successfully stored LTP data in Excel
+2025-07-14 13:05:00,311 INFO: Starting data collection at 13:05:00 for 5 minute(s)
+2025-07-14 13:10:00,321 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 13:10:00,321 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:10:00,368 INFO: Calculating signals for close price: 25020.8
+2025-07-14 13:10:00,399 INFO: Calculated signals: {'EMA1': 25041.38679766796, 'EMA2': 25044.350152517407, 'EMA3': 25050.109463164335, 'EMA4': 25061.267752556305, 'EMA5': 25077.295447425004, 'Signal': None, 'Strike_Price': None}
+2025-07-14 13:10:00,430 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:10:00,430 INFO: Successfully stored LTP data in Excel
+2025-07-14 13:10:00,430 INFO: Starting data collection at 13:10:00 for 5 minute(s)
+2025-07-14 13:15:00,446 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 13:15:00,446 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:15:00,493 INFO: Calculating signals for close price: 25026.35
+2025-07-14 13:15:00,524 INFO: Calculated signals: {'EMA1': 25038.04528707508, 'EMA2': 25041.77870215778, 'EMA3': 25047.949511967578, 'EMA4': 25059.27245241023, 'EMA5': 25075.475967159826, 'Signal': None, 'Strike_Price': None}
+2025-07-14 13:15:00,571 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:15:00,571 INFO: Successfully stored LTP data in Excel
+2025-07-14 13:15:00,571 INFO: Starting data collection at 13:15:00 for 5 minute(s)
+2025-07-14 13:20:00,581 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 13:20:00,581 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:20:00,613 INFO: Calculating signals for close price: 25036.9
+2025-07-14 13:20:00,644 INFO: Calculated signals: {'EMA1': 25037.790778836174, 'EMA2': 25041.08174470667, 'EMA3': 25046.945010879615, 'EMA4': 25057.994026558215, 'EMA5': 25074.098254046974, 'Signal': None, 'Strike_Price': None}
+2025-07-14 13:20:00,675 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:20:00,675 INFO: Successfully stored LTP data in Excel
+2025-07-14 13:20:00,675 INFO: Starting data collection at 13:20:00 for 5 minute(s)
+2025-07-14 13:25:00,687 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 13:25:00,687 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:25:00,750 INFO: Calculating signals for close price: 25051.1
+2025-07-14 13:25:00,781 INFO: Calculated signals: {'EMA1': 25040.74838353925, 'EMA2': 25042.51292403429, 'EMA3': 25047.322737163286, 'EMA4': 25057.60008218346, 'EMA5': 25073.27688783101, 'Signal': None, 'Strike_Price': None}
+2025-07-14 13:25:00,828 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:25:00,828 INFO: Successfully stored LTP data in Excel
+2025-07-14 13:25:00,828 INFO: Starting data collection at 13:25:00 for 5 minute(s)
+2025-07-14 13:30:00,830 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 13:30:00,830 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:30:00,892 INFO: Calculating signals for close price: 25058.55
+2025-07-14 13:30:00,924 INFO: Calculated signals: {'EMA1': 25044.704298308305, 'EMA2': 25044.803934886535, 'EMA3': 25048.343397421166, 'EMA4': 25057.65436320155, 'EMA5': 25072.750927551333, 'Signal': None, 'Strike_Price': None}
+2025-07-14 13:30:00,970 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:30:00,970 INFO: Successfully stored LTP data in Excel
+2025-07-14 13:30:00,970 INFO: Starting data collection at 13:30:00 for 5 minute(s)
+2025-07-14 13:35:00,984 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 13:35:00,984 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:35:01,046 INFO: Calculating signals for close price: 25052.95
+2025-07-14 13:35:01,078 INFO: Calculated signals: {'EMA1': 25046.536676462016, 'EMA2': 25045.967658474176, 'EMA3': 25048.762179473786, 'EMA4': 25057.385542447173, 'EMA5': 25072.04375156736, 'Signal': 'Sell Short', 'Strike_Price': 'SELL 24000 PE'}
+2025-07-14 13:35:01,109 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:35:01,109 INFO: *** NEW SIGNAL: Sell Short - SELL 24000 PE ***
+2025-07-14 13:35:01,109 INFO: Successfully stored LTP data in Excel
+2025-07-14 13:35:01,124 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 13:36:00,138 INFO: Starting data collection at 13:36:00 for 5 minute(s)
+2025-07-14 13:41:00,149 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 13:41:00,149 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:41:00,196 INFO: Calculating signals for close price: 25040.35
+2025-07-14 13:41:00,227 INFO: Calculated signals: {'EMA1': 25045.161859470456, 'EMA2': 25045.16513583501, 'EMA3': 25047.99743588526, 'EMA4': 25056.41208287876, 'EMA5': 25070.911831868525, 'Signal': 'Sell Long', 'Strike_Price': 'SELL 26000 CE'}
+2025-07-14 13:41:00,274 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:41:00,274 INFO: *** NEW SIGNAL: Sell Long - SELL 26000 CE ***
+2025-07-14 13:41:00,274 INFO: Successfully stored LTP data in Excel
+2025-07-14 13:41:01,008 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 13:42:01,000 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 13:43:01,001 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 13:44:01,015 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 13:45:00,025 INFO: Starting data collection at 13:45:00 for 5 minute(s)
+2025-07-14 13:50:00,041 INFO: Collected 299 LTP points for 5 minute timeframe
+2025-07-14 13:50:00,041 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:50:00,072 INFO: Calculating signals for close price: 25046.6
+2025-07-14 13:50:00,103 INFO: Calculated signals: {'EMA1': 25045.481446254802, 'EMA2': 25045.370116430007, 'EMA3': 25047.870396259328, 'EMA4': 25055.851392428547, 'EMA5': 25070.043552158935, 'Signal': 'Sell Short', 'Strike_Price': 'SELL 24000 PE'}
+2025-07-14 13:50:00,150 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:50:00,150 INFO: *** NEW SIGNAL: Sell Short - SELL 24000 PE ***
+2025-07-14 13:50:00,150 INFO: Successfully stored LTP data in Excel
+2025-07-14 13:50:00,150 INFO: Starting data collection at 13:50:00 for 5 minute(s)
+2025-07-14 13:55:00,167 INFO: Collected 299 LTP points for 5 minute timeframe
+2025-07-14 13:55:00,167 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:55:00,245 INFO: Calculating signals for close price: 25039.6
+2025-07-14 13:55:00,276 INFO: Calculated signals: {'EMA1': 25044.174458198177, 'EMA2': 25044.545814082863, 'EMA3': 25047.118542053937, 'EMA4': 25054.92274143263, 'EMA5': 25068.956282438972, 'Signal': 'Sell Long', 'Strike_Price': 'SELL 26000 CE'}
+2025-07-14 13:55:00,310 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 13:55:00,310 INFO: *** NEW SIGNAL: Sell Long - SELL 26000 CE ***
+2025-07-14 13:55:00,310 INFO: Successfully stored LTP data in Excel
+2025-07-14 13:55:00,310 INFO: Starting data collection at 13:55:00 for 5 minute(s)
+2025-07-14 14:00:00,316 INFO: Collected 299 LTP points for 5 minute timeframe
+2025-07-14 14:00:00,316 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:00:00,378 INFO: Calculating signals for close price: 25035.25
+2025-07-14 14:00:00,409 INFO: Calculated signals: {'EMA1': 25042.191245265247, 'EMA2': 25043.217840642457, 'EMA3': 25046.039583685397, 'EMA4': 25053.798584779335, 'EMA5': 25067.752486637582, 'Signal': None, 'Strike_Price': None}
+2025-07-14 14:00:00,456 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:00:00,456 INFO: Successfully stored LTP data in Excel
+2025-07-14 14:00:00,456 INFO: Starting data collection at 14:00:00 for 5 minute(s)
+2025-07-14 14:05:00,471 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 14:05:00,471 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:05:00,546 INFO: Calculating signals for close price: 25032.45
+2025-07-14 14:05:00,689 INFO: Calculated signals: {'EMA1': 25040.026524095192, 'EMA2': 25041.679577693536, 'EMA3': 25044.804166986723, 'EMA4': 25052.578665649085, 'EMA5': 25066.491683543383, 'Signal': None, 'Strike_Price': None}
+2025-07-14 14:05:00,736 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:05:00,736 INFO: Successfully stored LTP data in Excel
+2025-07-14 14:05:00,736 INFO: Starting data collection at 14:05:00 for 5 minute(s)
+2025-07-14 14:10:00,747 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 14:10:00,747 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:10:00,810 INFO: Calculating signals for close price: 25042.05
+2025-07-14 14:10:00,841 INFO: Calculated signals: {'EMA1': 25040.476185407373, 'EMA2': 25041.732495165892, 'EMA3': 25044.553788169746, 'EMA4': 25051.977027611993, 'EMA5': 25065.61876627398, 'Signal': None, 'Strike_Price': None}
+2025-07-14 14:10:00,888 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:10:00,888 INFO: Successfully stored LTP data in Excel
+2025-07-14 14:10:00,888 INFO: Starting data collection at 14:10:00 for 5 minute(s)
+2025-07-14 14:15:00,888 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 14:15:00,888 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:15:00,951 INFO: Calculating signals for close price: 25046.85
+2025-07-14 14:15:00,982 INFO: Calculated signals: {'EMA1': 25041.89258865018, 'EMA2': 25042.46356728505, 'EMA3': 25044.762534699767, 'EMA4': 25051.684054605594, 'EMA5': 25064.948453192766, 'Signal': None, 'Strike_Price': None}
+2025-07-14 14:15:01,029 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:15:01,029 INFO: Successfully stored LTP data in Excel
+2025-07-14 14:15:01,029 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 14:16:00,035 INFO: Starting data collection at 14:16:00 for 5 minute(s)
+2025-07-14 14:21:00,049 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 14:21:00,049 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:21:00,096 INFO: Calculating signals for close price: 25043.75
+2025-07-14 14:21:00,147 INFO: Calculated signals: {'EMA1': 25042.305346727917, 'EMA2': 25042.647343387187, 'EMA3': 25044.670486090694, 'EMA4': 25051.230680056702, 'EMA5': 25064.19136557874, 'Signal': None, 'Strike_Price': None}
+2025-07-14 14:21:00,178 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:21:00,178 INFO: Successfully stored LTP data in Excel
+2025-07-14 14:21:01,007 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 14:22:01,011 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 14:23:01,013 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 14:24:01,011 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 14:25:00,024 INFO: Starting data collection at 14:25:00 for 5 minute(s)
+2025-07-14 14:30:00,034 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 14:30:00,034 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:30:00,081 INFO: Calculating signals for close price: 25058.8
+2025-07-14 14:30:00,127 INFO: Calculated signals: {'EMA1': 25045.970825232824, 'EMA2': 25044.954865760446, 'EMA3': 25045.954987355177, 'EMA4': 25051.663212624888, 'EMA5': 25063.99881680807, 'Signal': 'Sell Short', 'Strike_Price': 'SELL 24000 PE'}
+2025-07-14 14:30:00,159 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:30:00,159 INFO: *** NEW SIGNAL: Sell Short - SELL 24000 PE ***
+2025-07-14 14:30:00,159 INFO: Successfully stored LTP data in Excel
+2025-07-14 14:30:00,159 INFO: Starting data collection at 14:30:00 for 5 minute(s)
+2025-07-14 14:35:00,170 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 14:35:00,170 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:35:00,217 INFO: Calculating signals for close price: 25043.9
+2025-07-14 14:35:00,248 INFO: Calculated signals: {'EMA1': 25045.51064184775, 'EMA2': 25044.804170651812, 'EMA3': 25045.76817032289, 'EMA4': 25051.21960047489, 'EMA5': 25063.281001922067, 'Signal': None, 'Strike_Price': None}
+2025-07-14 14:35:00,295 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:35:00,295 INFO: Successfully stored LTP data in Excel
+2025-07-14 14:35:00,295 INFO: Starting data collection at 14:35:00 for 5 minute(s)
+2025-07-14 14:40:00,310 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 14:40:00,310 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:40:00,373 INFO: Calculating signals for close price: 25040.95
+2025-07-14 14:40:00,404 INFO: Calculated signals: {'EMA1': 25044.497165881585, 'EMA2': 25044.253574844413, 'EMA3': 25045.33015483899, 'EMA4': 25050.632766162038, 'EMA5': 25062.483466139136, 'Signal': None, 'Strike_Price': None}
+2025-07-14 14:40:00,451 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:40:00,451 INFO: Successfully stored LTP data in Excel
+2025-07-14 14:40:00,451 INFO: Starting data collection at 14:40:00 for 5 minute(s)
+2025-07-14 14:45:00,464 INFO: Collected 298 LTP points for 5 minute timeframe
+2025-07-14 14:45:00,464 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:45:00,526 INFO: Calculating signals for close price: 25049.85
+2025-07-14 14:45:00,558 INFO: Calculated signals: {'EMA1': 25045.686684574564, 'EMA2': 25045.053064152355, 'EMA3': 25045.741049853626, 'EMA4': 25050.58803666706, 'EMA5': 25062.03227091988, 'Signal': None, 'Strike_Price': None}
+2025-07-14 14:45:00,604 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:45:00,604 INFO: Successfully stored LTP data in Excel
+2025-07-14 14:45:00,604 INFO: Starting data collection at 14:45:00 for 5 minute(s)
+2025-07-14 14:50:00,619 INFO: Collected 298 LTP points for 5 minute timeframe
+2025-07-14 14:50:00,619 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:50:00,681 INFO: Calculating signals for close price: 25052.2
+2025-07-14 14:50:00,713 INFO: Calculated signals: {'EMA1': 25047.134088002436, 'EMA2': 25046.074054987737, 'EMA3': 25046.32822713966, 'EMA4': 25050.680148857515, 'EMA5': 25061.68111838703, 'Signal': None, 'Strike_Price': None}
+2025-07-14 14:50:00,760 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:50:00,760 INFO: Successfully stored LTP data in Excel
+2025-07-14 14:50:00,760 INFO: Starting data collection at 14:50:00 for 5 minute(s)
+2025-07-14 14:55:00,760 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 14:55:00,760 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:55:00,823 INFO: Calculating signals for close price: 25083.85
+2025-07-14 14:55:00,854 INFO: Calculated signals: {'EMA1': 25055.293179557448, 'EMA2': 25051.470618560918, 'EMA3': 25049.73929739969, 'EMA4': 25052.5755689228, 'EMA5': 25062.472864158924, 'Signal': None, 'Strike_Price': None}
+2025-07-14 14:55:00,901 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 14:55:00,901 INFO: Successfully stored LTP data in Excel
+2025-07-14 14:55:00,901 INFO: Starting data collection at 14:55:00 for 5 minute(s)
+2025-07-14 15:00:00,910 INFO: Collected 298 LTP points for 5 minute timeframe
+2025-07-14 15:00:00,910 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 15:00:00,972 INFO: Calculating signals for close price: 25107.05
+2025-07-14 15:00:01,004 INFO: Calculated signals: {'EMA1': 25066.79469521135, 'EMA2': 25059.410530195073, 'EMA3': 25054.949361272444, 'EMA4': 25055.68839355578, 'EMA5': 25064.064904724677, 'Signal': None, 'Strike_Price': None}
+2025-07-14 15:00:01,035 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 15:00:01,035 INFO: Successfully stored LTP data in Excel
+2025-07-14 15:00:01,035 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 15:01:00,045 INFO: Starting data collection at 15:01:00 for 5 minute(s)
+2025-07-14 15:06:00,059 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 15:06:00,059 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 15:06:00,106 INFO: Calculating signals for close price: 25078.45
+2025-07-14 15:06:00,137 INFO: Calculated signals: {'EMA1': 25069.38476294216, 'EMA2': 25062.13045445292, 'EMA3': 25057.08578297495, 'EMA4': 25056.989056781167, 'EMA5': 25064.578658127368, 'Signal': None, 'Strike_Price': None}
+2025-07-14 15:06:00,184 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 15:06:00,184 INFO: Successfully stored LTP data in Excel
+2025-07-14 15:06:01,012 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 15:07:01,014 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 15:08:01,003 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 15:09:01,003 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 15:10:00,015 INFO: Starting data collection at 15:10:00 for 5 minute(s)
+2025-07-14 15:15:00,024 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 15:15:00,024 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 15:15:00,086 INFO: Calculating signals for close price: 25079.75
+2025-07-14 15:15:00,117 INFO: Calculated signals: {'EMA1': 25071.688148955014, 'EMA2': 25064.64753238822, 'EMA3': 25059.146166340863, 'EMA4': 25058.289682107956, 'EMA5': 25065.12049176568, 'Signal': None, 'Strike_Price': None}
+2025-07-14 15:15:00,174 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 15:15:00,174 INFO: Successfully stored LTP data in Excel
+2025-07-14 15:15:00,174 INFO: Starting data collection at 15:15:00 for 5 minute(s)
+2025-07-14 15:20:00,187 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 15:20:00,187 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 15:20:00,234 INFO: Calculating signals for close price: 25080.5
+2025-07-14 15:20:00,265 INFO: Calculated signals: {'EMA1': 25073.646338076123, 'EMA2': 25066.912170618474, 'EMA3': 25061.08742394624, 'EMA4': 25059.55884313036, 'EMA5': 25065.669759916906, 'Signal': None, 'Strike_Price': None}
+2025-07-14 15:20:00,322 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 15:20:00,322 INFO: Successfully stored LTP data in Excel
+2025-07-14 15:20:00,322 INFO: Starting data collection at 15:20:00 for 5 minute(s)
+2025-07-14 15:25:00,324 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 15:25:00,324 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 15:25:00,355 INFO: Calculating signals for close price: 25087
+2025-07-14 15:25:00,402 INFO: Calculated signals: {'EMA1': 25076.613818503654, 'EMA2': 25069.78186053012, 'EMA3': 25063.4431126784, 'EMA4': 25061.126909237195, 'EMA5': 25066.43155420559, 'Signal': None, 'Strike_Price': None}
+2025-07-14 15:25:00,449 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 15:25:00,449 INFO: Successfully stored LTP data in Excel
+2025-07-14 15:25:00,449 INFO: Starting data collection at 15:25:00 for 5 minute(s)
+2025-07-14 15:30:00,461 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 15:30:00,461 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 15:30:00,539 INFO: Calculating signals for close price: 25087.1
+2025-07-14 15:30:00,570 INFO: Calculated signals: {'EMA1': 25078.9440810584, 'EMA2': 25072.25588045439, 'EMA3': 25065.593738798543, 'EMA4': 25062.61108585221, 'EMA5': 25067.16971298396, 'Signal': None, 'Strike_Price': None}
+2025-07-14 15:30:00,617 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 15:30:00,617 INFO: Successfully stored LTP data in Excel
+2025-07-14 15:30:00,617 INFO: Starting data collection at 15:30:00 for 5 minute(s)
+2025-07-14 15:35:00,628 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 15:35:00,628 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 15:35:00,706 INFO: Calculating signals for close price: 25082.3
+2025-07-14 15:35:00,863 INFO: Calculated signals: {'EMA1': 25079.689840823197, 'EMA2': 25073.690754675194, 'EMA3': 25067.112489816856, 'EMA4': 25063.73616666066, 'EMA5': 25067.71008037739, 'Signal': None, 'Strike_Price': None}
+2025-07-14 15:35:00,910 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 15:35:00,910 INFO: Successfully stored LTP data in Excel
+2025-07-14 15:35:00,910 INFO: Starting data collection at 15:35:00 for 5 minute(s)
+2025-07-14 15:40:00,922 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 15:40:00,922 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 15:40:00,985 INFO: Calculating signals for close price: 25082.3
+2025-07-14 15:40:01,016 INFO: Calculated signals: {'EMA1': 25080.26987619582, 'EMA2': 25074.920646864455, 'EMA3': 25068.49317256078, 'EMA4': 25064.796957137194, 'EMA5': 25068.23114893534, 'Signal': None, 'Strike_Price': None}
+2025-07-14 15:40:01,047 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 15:40:01,047 INFO: Successfully stored LTP data in Excel
+2025-07-14 15:40:01,047 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 15:41:00,051 INFO: Starting data collection at 15:41:00 for 5 minute(s)
+2025-07-14 15:46:00,056 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 15:46:00,056 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 15:46:00,103 INFO: Calculating signals for close price: 25082.3
+2025-07-14 15:46:00,134 INFO: Calculated signals: {'EMA1': 25080.72101481897, 'EMA2': 25075.974840169536, 'EMA3': 25069.748338691617, 'EMA4': 25065.797131015068, 'EMA5': 25068.733607901937, 'Signal': None, 'Strike_Price': None}
+2025-07-14 15:46:00,181 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 15:46:00,181 INFO: Successfully stored LTP data in Excel
+2025-07-14 15:46:01,009 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 15:47:01,002 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 15:48:01,013 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 15:49:01,010 INFO: Waiting 59 seconds for next minute to start
+2025-07-14 15:50:00,014 INFO: Starting data collection at 15:50:00 for 5 minute(s)
+2025-07-14 15:55:00,015 INFO: Collected 298 LTP points for 5 minute timeframe
+2025-07-14 15:55:00,015 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 15:55:00,061 INFO: Calculating signals for close price: 25082.3
+2025-07-14 15:55:00,093 INFO: Calculated signals: {'EMA1': 25081.071900414754, 'EMA2': 25076.878434431033, 'EMA3': 25070.88939881056, 'EMA4': 25066.74015209992, 'EMA5': 25069.21812190544, 'Signal': None, 'Strike_Price': None}
+2025-07-14 15:55:00,140 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 15:55:00,140 INFO: Successfully stored LTP data in Excel
+2025-07-14 15:55:00,140 INFO: Starting data collection at 15:55:00 for 5 minute(s)
+2025-07-14 16:00:00,140 INFO: Collected 298 LTP points for 5 minute timeframe
+2025-07-14 16:00:00,140 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 16:00:00,203 INFO: Calculating signals for close price: 25082.3
+2025-07-14 16:00:00,250 INFO: Calculated signals: {'EMA1': 25081.344811433697, 'EMA2': 25077.65294379803, 'EMA3': 25071.926726191417, 'EMA4': 25067.62928626564, 'EMA5': 25069.68533183739, 'Signal': None, 'Strike_Price': None}
+2025-07-14 16:00:00,281 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 16:00:00,281 INFO: Successfully stored LTP data in Excel
+2025-07-14 16:00:00,281 INFO: Starting data collection at 16:00:00 for 5 minute(s)
+2025-07-14 16:05:00,284 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 16:05:00,284 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 16:05:00,331 INFO: Calculating signals for close price: 25082.3
+2025-07-14 16:05:00,377 INFO: Calculated signals: {'EMA1': 25081.55707555954, 'EMA2': 25078.316808969743, 'EMA3': 25072.869751083108, 'EMA4': 25068.467612764747, 'EMA5': 25070.135855700344, 'Signal': None, 'Strike_Price': None}
+2025-07-14 16:05:00,424 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 16:05:00,424 INFO: Successfully stored LTP data in Excel
+2025-07-14 16:05:00,424 INFO: Starting data collection at 16:05:00 for 5 minute(s)
+2025-07-14 16:10:00,438 INFO: Collected 300 LTP points for 5 minute timeframe
+2025-07-14 16:10:00,438 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-14 16:10:00,516 INFO: Calculating signals for close price: 25082.3
+2025-07-14 16:10:00,547 INFO: Calculated signals: {'EMA1': 25081.722169879642, 'EMA2': 25078.885836259782, 'EMA3': 25073.727046439188, 'EMA4': 25069.258034892475, 'EMA5': 25070.570289425334, 'Signal': None, 'Strike_Price': None}
+2025-07-14 16:10:00,594 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-14 16:10:00,594 INFO: Successfully stored LTP data in Excel
+2025-07-14 16:10:00,594 INFO: Starting data collection at 16:10:00 for 5 minute(s)
+2025-07-15 08:25:51,294 INFO: Script started.
+2025-07-15 08:25:51,295 INFO: Attempting to read auth URL from URL.txt
+2025-07-15 08:25:51,305 INFO: Successfully read URL from file
+2025-07-15 08:25:51,305 INFO: Successfully extracted auth code from URL
+2025-07-15 08:25:51,305 INFO: Trading symbol set to: NSE:NIFTY50-INDEX
+2025-07-15 08:25:51,305 INFO: Attempting to create Fyers session
+2025-07-15 08:25:51,490 INFO: Successfully created Fyers session
+2025-07-15 08:25:51,647 INFO: Successfully retrieved user profile
+2025-07-15 08:25:51,647 INFO: Successfully created Excel file at: Data\NIFTY50-INDEX.xlsx
+2025-07-15 08:25:51,647 INFO: Starting LTP data collection for 1 minute timeframe
+2025-07-15 08:25:51,647 INFO: Waiting 9 seconds for next minute to start
+2025-07-15 08:26:00,655 INFO: Starting data collection at 08:26:00 for 1 minute(s)
+2025-07-15 08:27:00,661 INFO: Collected 60 LTP points for 1 minute timeframe
+2025-07-15 08:27:00,661 INFO: Processing LTP data for storage in Data\NIFTY50-INDEX.xlsx
+2025-07-15 08:27:00,740 INFO: Calculating signals for close price: 25082.3
+2025-07-15 08:27:00,927 INFO: Successfully stored OHLC data in Data\NIFTY50-INDEX.xlsx
+2025-07-15 08:27:00,927 INFO: Successfully stored LTP data in Excel
+2025-07-15 08:27:00,927 INFO: Starting data collection at 08:27:00 for 1 minute(s)
+2025-07-15 08:27:12,565 INFO: Data collection stopped by user
