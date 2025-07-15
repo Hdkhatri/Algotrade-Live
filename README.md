@@ -1,11 +1,10 @@
 # Algotrade-Live
 God Strategy
-
 Edit Credentials.py before use.
 
 This is for Nifty Trade Only.
 
-To Change TimeFrame 
+**To Change TimeFrame **
 
 In main.py
 
